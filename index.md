@@ -1,5 +1,5 @@
 ---
-title: MIT Secure Cyber Risk Aggregation and Measurement
+title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Belkirk College
